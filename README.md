@@ -1,6 +1,6 @@
 #### Language / Sprache
-- [English](https://github.com/Sneezy123/Sneezy123/main/README.md#english)
-- [Deutsch](https://github.com/Sneezy123/Sneezy123/main/README.md#deutsch)
+- [English](https://github.com/Sneezy123#english)
+- [Deutsch](https://github.com/Sneezy123#deutsch)
 
 
 
