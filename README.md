@@ -34,7 +34,7 @@ My name is Nils and I am a hobby developer from Germany. I have tried many thing
 │
 #
 │  
-◇ `Soon, I am studying Computer Science at RWTH in Aachen, Germany`  
+◇ `Soon, I am studying Computer Science at RWTH Aachen University in Aachen, Germany`  
 │
 ### Languages and Tools I use/ used
 
@@ -80,7 +80,7 @@ Ich heiße Nils und ich bin ein Hobby-Entwickler aus Deutschland. Über die Jahr
 │
 #
 │  
-◇ `Bald studiere ich Informatik an der RWTH in Aachen`  
+◇ `Bald studiere ich Informatik an der RWTH Universität in Aachen`  
 │
 ### Programmiersprachen and Werkzeuge, die ich benutze/ benutzt habe
 
